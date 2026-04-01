@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @WangBoX
 - 👀 I’m worked for alibaba
-- ✨ iOS / Web Dev
+- ✨ AI Dev ❤️ Vibe Coding
 - 💞️ 563915318@qq.com
 
 <!---
